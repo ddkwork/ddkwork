@@ -4,7 +4,7 @@
 
 <h2>👋 关于我</h2>
 
-你好, 我是 **<font color="#03A9F4">{Louis}</font>**, 一个 **<font color="#F31199">{高级全栈工程师}</font>** !  🧐
+你好, 我是 **<font color="#03A9F4">{ddkwork}</font>**, 一个 **<font color="#F31199">{高级全栈工程师}</font>** !  🧐
 
 凭借在 **{后端}** 和 **{前端}** 开发方面的坚实基础，我为 [Untrading.org](https://untrading.org) 带来了全面的技能。我在 **{Java}**、**{Vue.js}**、**{Web3}** 和 **{服务器部署}** 方面的专业知识，加上我在 **{项目管理}** 和 **{区块链开发}** 方面的经验，使我成为团队的宝贵财富。我将继续推动创新和卓越，为 [@untrading](https://github.com/untrading) 的成长和成功做出贡献。👊
 
@@ -26,7 +26,7 @@
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=ddkwork&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddkwork&theme=merko&custom_title=Louis%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/ddkwork)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddkwork&theme=merko&custom_title=ddkwork%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/ddkwork)
 
 
 
@@ -120,31 +120,31 @@
     <a href="https://github.com/ddkwork" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
     </a>
-    <a href="https://x.com/LouisLiuOneself" target="blank">
+    <a href="https://x.com/ddkworkLiuOneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />
     </a>
-    <a href="https://www.facebook.com/LouisLiuOneself" target="blank">
+    <a href="https://www.facebook.com/ddkworkLiuOneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />
     </a>
-    <a href="https://www.linkedin.com/in/louisliuoneself" target="blank">
+    <a href="https://www.linkedin.com/in/ddkworkliuoneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" />
     </a>
-    <a href="https://discord.com/channels/@louis.liu" target="blank">
+    <a href="https://discord.com/channels/@ddkwork.liu" target="blank">
         <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" height="40" />
     </a>
-    <a href="https://t.me/Louis_Liu" target="blank">
+    <a href="https://t.me/ddkwork_Liu" target="blank">
         <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
     </a>
-    <a href="https://medium.com/@louisliuoneself" target="blank">
+    <a href="https://medium.com/@ddkworkliuoneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" height="40" />
     </a>
-    <a href="https://www.instagram.com/louisliuoneself" target="blank">
+    <a href="https://www.instagram.com/ddkworkliuoneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" />
     </a>
-     <a href="https://www.tiktok.com/@louisliuoneself" target="blank">
+     <a href="https://www.tiktok.com/@ddkworkliuoneself" target="blank">
         <img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />
     </a>
-    <a href="https://www.youtube.com/@LouisLiuOneself" target="blank">
+    <a href="https://www.youtube.com/@ddkworkLiuOneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />
     </a>
     <a href="https://blog.liuxin.online" target="blank">
@@ -158,7 +158,7 @@
 
 如果你喜欢我做的事情，也许可以考虑请我喝杯咖啡。🍵 另外，加密货币也是一个好方法！🤑
 
-<a href="https://buymeacoffee.com/louisliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/ddkworkliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>
 <a href="https://bitcoin.org" target="_blank"> <img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></a> <b>xxxxxxxxxxxxxxxxxxxxxxxxxx</b>
 <br/>

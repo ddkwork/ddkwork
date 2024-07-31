@@ -4,7 +4,7 @@
 
 <h2>👋 About Me</h2>
 
-Hello, I'm **<font color="#03A9F4">{Louis}</font>**, a **<font color="#F31199">{Senior Full-Stack Engineer}</font>**!  🧐
+Hello, I'm **<font color="#03A9F4">{ddkwork}</font>**, a **<font color="#F31199">{Senior Full-Stack Engineer}</font>**!  🧐
 
 With a strong foundation in both **{backend}** and **{frontend}** development, I bring a comprehensive skill set to [Untrading.org](https://untrading.org). My expertise in **{Java}**, **{Vue.js}**, **{Web3}** and **{server deployment}**, combined with my experience in **{project management}** and **{blockchain development}**, makes me an invaluable asset to the team. I continue to drive innovation and excellence, contributing to the growth and success of [@untrading](https://github.com/untrading). 👊
 
@@ -26,7 +26,7 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=ddkwork&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddkwork&theme=merko&custom_title=Louis%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/ddkwork)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddkwork&theme=merko&custom_title=ddkwork%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/ddkwork)
 
 
 
@@ -120,31 +120,31 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
     <a href="https://github.com/ddkwork" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
     </a>
-    <a href="https://x.com/LouisLiuOneself" target="blank">
+    <a href="https://x.com/ddkworkLiuOneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height="35"  />
     </a>
-    <a href="https://www.facebook.com/LouisLiuOneself" target="blank">
+    <a href="https://www.facebook.com/ddkworkLiuOneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" height="40" />
     </a>
-    <a href="https://www.linkedin.com/in/louisliuoneself" target="blank">
+    <a href="https://www.linkedin.com/in/ddkworkliuoneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" />
     </a>
-    <a href="https://discord.com/channels/@louis.liu" target="blank">
+    <a href="https://discord.com/channels/@ddkwork.liu" target="blank">
         <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" height="40" />
     </a>
-    <a href="https://t.me/Louis_Liu" target="blank">
+    <a href="https://t.me/ddkwork_Liu" target="blank">
         <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="40"  />
     </a>
-    <a href="https://medium.com/@louisliuoneself" target="blank">
+    <a href="https://medium.com/@ddkworkliuoneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="medium" height="40" />
     </a>
-    <a href="https://www.instagram.com/louisliuoneself" target="blank">
+    <a href="https://www.instagram.com/ddkworkliuoneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" />
     </a>
-     <a href="https://www.tiktok.com/@louisliuoneself" target="blank">
+     <a href="https://www.tiktok.com/@ddkworkliuoneself" target="blank">
         <img src="https://www.tiktok.com/favicon.ico" alt="tiktok" height="40" width="45" />
     </a>
-    <a href="https://www.youtube.com/@LouisLiuOneself" target="blank">
+    <a href="https://www.youtube.com/@ddkworkLiuOneself" target="blank">
         <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" />
     </a>
     <a href="https://blog.liuxin.online" target="blank">
@@ -158,7 +158,7 @@ With a strong foundation in both **{backend}** and **{frontend}** development, I
 
 if you like what i do, maybe consider buying me a coffee. 🍵 Also, cryptocurrency is also a good way! 🤑
 
-<a href="https://buymeacoffee.com/louisliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/ddkworkliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>
 <a href="https://bitcoin.org" target="_blank"> <img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></a> <b>xxxxxxxxxxxxxx</b>
 <br/>
