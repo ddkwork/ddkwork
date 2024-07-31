@@ -23,10 +23,10 @@
 <h2>🏆 GitHub 活動</h2>
 
 <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=LouisLiu00&theme=onedark&column=-1&margin-w=15" />
+	<img align="left" src="https://github-profile-trophy.vercel.app/?username=ddkwork&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LouisLiu00&theme=merko&custom_title=Louis%20活動圖&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddkwork&theme=merko&custom_title=Louis%20活動圖&hide_border=true&point=FFFFFF&days=50)](https://github.com/ddkwork)
 
 
 
@@ -117,7 +117,7 @@
 <h2>💬 與我聯係</h2>
 
 <p align="left">
-    <a href="https://github.com/LouisLiu00" target="blank">
+    <a href="https://github.com/ddkwork" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" />
     </a>
     <a href="https://x.com/LouisLiuOneself" target="blank">
