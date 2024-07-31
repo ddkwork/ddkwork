@@ -160,11 +160,11 @@
 
 <a href="https://buymeacoffee.com/louisliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>
-<a href="https://bitcoin.org" target="_blank"> <img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></a> <b>bc1q27n4hmdtvz32rnvds7k36hzwykdkhvv4jmjsvl</b>
+<a href="https://bitcoin.org" target="_blank"> <img src="https://bitcoin.org/favicon.png" alt="bitcoin" height="40" /></a> <b>xxxxxxxxxxxxxxxxxxxxxxxxxx</b>
 <br/>
-<a href="https://ethereum.org" target="_blank"> <img src="https://ethereum.org/images/favicon.png" alt="ethereum" height="40" /></a> <b>0x933851f59F2C7213dDaDbEa50d9f095909dE7101</b>
+<a href="https://ethereum.org" target="_blank"> <img src="https://ethereum.org/images/favicon.png" alt="ethereum" height="40" /></a> <b>xxxxxxxxxxxxxxxxxxxxxxxxxx</b>
 <br/>
-<a href="https://solana.com" target="_blank"> <img src="https://solana.com/favicon.svg" alt="solana" height="40" /></a> <b>CqCk134Wx1HA71v2nzXzptNKXDWjixDGw53HpgisH5G</b>
+<a href="https://solana.com" target="_blank"> <img src="https://solana.com/favicon.svg" alt="solana" height="40" /></a> <b>xxxxxxxxxxxxxxxxxxxxxxxxxx</b>
 <br/>
 
 
